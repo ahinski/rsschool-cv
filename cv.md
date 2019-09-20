@@ -1,5 +1,4 @@
 # My Resume
-
 ## Contacts
 **Denis Ahinski**
 * [TG:@untitled10](t.me/untitled10)
@@ -17,7 +16,7 @@ Some basic knowledge in:
 * JavaScript ([Eloquent JavaScript](https://eloquentjavascript.net/))
 * Photoshop
 ## Code example
-```
+```javascript
 function code(){  
  console.log("that's my latest code example!");  
 }  
